@@ -27,8 +27,5 @@ Rápida
 Personalizable
 Seaborn
 Librería montada sobre Matplotlib
-¿Qué deberías saber antes de empezar en la visualización de datos?
-Para que tu camino en la visualización de datos sea más provechoso te recomendamos tener conocimientos previos en:
 
 
-![Alt text](image.png)
