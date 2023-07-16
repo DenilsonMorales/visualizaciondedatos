@@ -27,4 +27,4 @@ En la visualización de datos encontrarás dos librerías muy importantes para e
 * Rápida  
 * Personalizable  
 ###### Seaborn
-*Librería montada sobre Matplotlib
+* Librería montada sobre Matplotlib
